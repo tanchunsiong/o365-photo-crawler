@@ -1,0 +1,17 @@
+# Build results
+[Bb]in/
+[Oo]bj/
+[Dd]ebug/
+[Rr]elease/
+
+# Visual Studio
+.vs/
+*.suo
+*.user
+
+# UWP
+AppPackages/
+BundleArtifacts/
+
+# NuGet
+packages/
